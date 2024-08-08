@@ -1,6 +1,6 @@
 # provided for a demo of how to use SPRING PROFILES
 accounts:
-  message: "Welcome to bank API (Accounts/prod)"
+  message: "{cipher}e3f4a8f4ba2092c1f24e0cf5ade4874286b1f4b1fb33351ff7390cc9c4626cd56d45edb32176036e63af9e61ce5c0f7c"
   contactDetails:
     name: "Rare Wind PROD"
     email: "rarewind@rarewind.com PROD"
