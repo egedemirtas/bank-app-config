@@ -5,5 +5,5 @@ accounts:
     name: "Rare Wind PROD"
     email: "rarewind@rarewind.com PROD"
   onCallSupport:
-    - 111
+    - 222
     - 666
