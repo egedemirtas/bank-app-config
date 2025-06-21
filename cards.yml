@@ -2,12 +2,7 @@ server:
   port: 9000
 
 spring:
-  datasource:
-    url: jdbc:mysql://localhost:3308/cardsDB
-    username: root
-    password: root
   jpa:
-    database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: update
     show-sql: true
